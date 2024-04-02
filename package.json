@@ -1,0 +1,21 @@
+{
+  "name": "yemnas08-todo-app",
+  "version": "2.0.0",
+  "description": "",
+  "main": "main.js",
+  "type": "module",
+  "bin": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "yemna Mehmood",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.16",
+    "save": "^2.9.0"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
